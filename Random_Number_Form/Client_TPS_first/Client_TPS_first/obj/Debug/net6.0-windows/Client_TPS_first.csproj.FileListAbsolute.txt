@@ -1,0 +1,17 @@
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\bin\Debug\net6.0-windows\Client_TPS_first.exe
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\bin\Debug\net6.0-windows\Client_TPS_first.deps.json
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\bin\Debug\net6.0-windows\Client_TPS_first.runtimeconfig.json
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\bin\Debug\net6.0-windows\Client_TPS_first.dll
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\bin\Debug\net6.0-windows\Client_TPS_first.pdb
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.csproj.AssemblyReference.cache
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.Form1.resources
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.csproj.GenerateResource.cache
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.AssemblyInfoInputs.cache
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.AssemblyInfo.cs
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.csproj.CoreCompileInputs.cache
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.dll
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\refint\Client_TPS_first.dll
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.pdb
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\Client_TPS_first.genruntimeconfig.cache
+C:\Users\Fin\source\repos\Client_TPS_first\Client_TPS_first\obj\Debug\net6.0-windows\ref\Client_TPS_first.dll
